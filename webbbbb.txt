@@ -1,0 +1,183 @@
+<!Doctype Html>
+<Html>   
+<Head>
+<Title>   
+Flower Delivery
+</Title>
+<style type=text/css> 
+body 
+{
+height: 125vh;
+margin-top: 80px;
+padding: 30px;
+background-size: cover;
+font-family: sans-serif;
+}
+header {
+background-color: rgb(50, 197, 190);
+position: fixed;
+left: 0;
+right: 0;
+top: 5px;
+height: 30px;
+display: flex;
+align-items: center;
+box-shadow: 0 0 25px 0 black;
+}
+header * {
+display: inline;
+}
+header li {
+margin: 20px;
+}
+header li a {
+color: rgb(23, 23, 243);
+text-decoration: none;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+
+
+</style> 
+</Head>
+<Body> 
+<header>
+<nav>
+<ul>
+<li>
+<a href="#"> Home </a>
+</li>
+<li>
+<a href="#"> About </a>
+</li>
+<li> <a href="#"> Terms of use </a>
+</li>
+<li>
+<a href="#"> Join Us </a>
+</li>
+</ul>
+</nav>
+</header>
+<h1>WELCOME TO FLOWER DELIVERY BY ASRA
+</h1>
+<h1><strong></strong></h1>
+<style>
+    h1 { color: #FF0000; }
+    h2 {
+        text-align: center;
+         color: #FF0000;   
+    }
+    h3 {
+        text-align: center;
+         color: #FF0000;
+    }
+
+  </style>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easter-flowers-1614701098.jpg?crop=1.00xw:0.334xh;0,0.172xh&resize=1200:*" alt="Flowers in Chania" width="950" height="400">
+<h2>Flower Avaliable
+    <h2><strong></strong></h2>
+    <img src="https://i.pinimg.com/474x/25/dd/2b/25dd2b5617f350909dc0ebbdaba5c04f.jpg" alt="Flowers in Chania" width="600" height="750">
+</h2>
+<h3>
+Delivery Time
+<h3><strong></strong></h3>
+</h3>
+<p>
+    <b> Day : Monday to Staturday
+        Time : 9am to 12am</b>
+
+</p>
+<h3>
+    Most Expensive flower details
+</h3>
+<p1>
+    Kadupul Flower:
+It is a Sri Lanka native flower that is luxurious. These flowers have only a short lifespan because it has cactus-like roots and it will not be able to survive even a night. The calming quality of the Kadupul flower is celebrated all over the world. Epiphyllum hookeri and Epiphyllum Oxypettalum are the variant types of Kadupul flower. The only way to experience its fragrance is by purchasing Kadupul perfume.
+
+Kadupul Flower
+
+Juliet Rose:
+Juliet roses are the most common and familiar name in the list of premium flowers. The diversity and the beauty of roses go beyond your searches. From black halfteri roses to osiria roses, there are abundant varieties in the world. Juliet roses are the top among every other rose. The attractive and eye-soothing peach color of the petals makes it expensive as it took more than ten years to make it. A bouquet of this rose is actually around $90.
+
+Juliet Rose
+
+Saffron Crocus:
+It is one of the most expensive flowers in the world which is elegant in look. The light purple and yellow combination makes it more attractive and eye-catchy. The saffron from this blossom is most popular than the flower itself. It requires more than 70,000 flowers to get 500gms of saffron spice. It is the reason why the flowers are so luxurious and add to the expense of the bud in the earth.
+
+Saffron Crocus
+
+Gloriosa Lily:
+It is yet another rare and unique type of flower which is more expensive than any other flower in the world. It is commonly known as a flame lily or fire lily. The pronounced petals of the flower make it unique and mostly the color gradient from the top to center gives a pleasant appeal to the whole plant. This Asian and Southern African native plant is accessible all year round.
+
+Gloriosa Lily
+
+Lisianthus
+</p1>
+<h4>Contact Form</h4>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="australia">Pakistan</option>
+      <option value="australia">canda</option>
+
+
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+    <label for="lname">Email Address</label>
+    <input type="text" id="lname" name="lastname" placeholder="Write email..">
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+
+</Body>
+</Body> 
+</Html>
+
+ 
